@@ -1,0 +1,15 @@
+body{
+   background-color: rgb(255, 254, 252);
+}
+p{
+   display: inline;
+}
+.user{
+   text-align: center;
+   margin: 100px;
+}
+
+img{
+   background-color: rgb(222, 122, 7);
+   border-radius: 50%;
+}
